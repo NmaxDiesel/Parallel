@@ -9,3 +9,5 @@ consider using c++
 or maybe c?
 
 also consider to applicate it using arduino
+
+add the diagram
