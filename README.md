@@ -12,4 +12,4 @@ also consider to applicate it using arduino
 
 add the diagram
 
-new lang?
+new lang? mojo?
