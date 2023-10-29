@@ -15,3 +15,5 @@ add the diagram
 new lang? mojo?
 
 probably it takes a few to learn
+
+or studied it
