@@ -17,3 +17,5 @@ new lang? mojo?
 probably it takes a few to learn
 
 or studied it
+
+got insight from tensorflow
