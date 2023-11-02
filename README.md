@@ -19,3 +19,6 @@ probably it takes a few to learn
 or studied it
 
 got insight from tensorflow
+
+
+deepen the knowledge
