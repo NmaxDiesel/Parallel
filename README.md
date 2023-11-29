@@ -22,3 +22,5 @@ got insight from tensorflow
 
 
 deepen the knowledge
+
+use the arduino
