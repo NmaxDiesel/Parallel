@@ -30,3 +30,6 @@ consider the paper
 rearrange the date
 
 use the lab pc
+
+
+prepare
