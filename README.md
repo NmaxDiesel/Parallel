@@ -33,3 +33,5 @@ use the lab pc
 
 
 prepare
+
+draw the diagram first
