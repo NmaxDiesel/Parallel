@@ -35,3 +35,5 @@ use the lab pc
 prepare
 
 draw the diagram first
+
+consider to include the business reason
