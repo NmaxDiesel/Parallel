@@ -37,3 +37,6 @@ prepare
 draw the diagram first
 
 consider to include the business reason
+
+
+maybe change to HFT???
