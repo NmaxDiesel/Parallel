@@ -36,6 +36,8 @@ prepare
 
 draw the diagram first
 
+start preparing
+
 consider to include the business reason
 
 
